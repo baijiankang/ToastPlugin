@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/toast_provider/toast_provider/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/toast_provider/toast_provider/build" />
+      <excludeFolder url="file://$MODULE_DIR$/toast_provider/toast_provider/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/toast_provider/toast_provider/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/toast_provider/toast_provider/example/build/app/intermediates/flutter/debug/flutter_assets/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/toast_provider/toast_provider/example/build/app/intermediates/merged_assets/debug/mergeDebugAssets/out/flutter_assets/packages" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
